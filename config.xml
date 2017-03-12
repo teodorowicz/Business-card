@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "Buisness Card"
+		    id          = "Tourist attractions"
         version     = "1.0.0" >
 
-      <name>Business Card</name>
-    <description>Przykladowa aplikacja zadanie Busienss Card</description>
+      <name>Tourist attractions</name>
+    <description>Przykladowa aplikacja zadanie Tourist attractions</description>
       <author>
         Micha T-W
       </author>
